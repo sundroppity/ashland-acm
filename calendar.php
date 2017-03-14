@@ -2,7 +2,7 @@
 <html>
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
-        <title>Ashland-Calendar</title>
+        <title>Ashland-ACM-Calendar</title>
 
         <!--CSS files-->
         <link rel="stylesheet" type="text/css" href="style/main.css">
@@ -22,9 +22,7 @@
         </nav>        
 
         <section>
-            <article class="announcement">
-            </article>
-            <article class="updates">
+            <article class="calendar">
             </article>
         </section>        
 
