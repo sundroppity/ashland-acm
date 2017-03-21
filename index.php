@@ -10,6 +10,8 @@
     <body>
         <!--Login button-->
         <header>
+            <!--List of links for the header-->
+            <?php include "/header.php"; ?>
         </header>
         
         <!--left link list-->
@@ -33,6 +35,7 @@
         </aside>
 
         <footer>
+            <?php include "/footer.php"; ?>
         </footer>
     </body>
 </html>
