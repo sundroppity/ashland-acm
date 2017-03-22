@@ -22,11 +22,10 @@
         </nav>        
 
         <section>
-            <article class="announcement">
-                <p>These are projects</p>
-            </article>
-            <article class="updates">
-            </article>
+            <h2>Projects</h2>
+            <p>The Ashland University Association of Computer Science is always kept busy working on new projects and maintaining current projects.</p>
+            <p>The organization is reletively small due to the number of computer science majors at Ashland University, but that does not mean that the organization is nonexistent.</p>
+            
         </section>        
 
         <!--right side if we need it-->
